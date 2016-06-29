@@ -1,0 +1,26 @@
+
+.caption h4, p{
+	text-align: center;
+
+}
+
+.panel-body div > p{
+	text-align: justify;
+}
+
+.thumbnail .img-responsive{
+	height: 200px;
+}
+
+.device-price-text{
+	color: rgb(0,128,255);
+}
+
+.device-price-text,.device-price-value{
+	font-size: 25px;
+	font-family: 'Arial', arial;
+}
+
+.list-group-item:hover{
+	color: rgb(255,0,255);
+}

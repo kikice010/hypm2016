@@ -1,0 +1,152 @@
+name:
+
+Apple iPad Pro 128 GB
+
+price:
+
+1250
+
+description:
+
+With iPad you've discovered a whole new world, simple and addictive. Today iPad Pro, with improved multi-touch technology, its large Retina Display 12.9 ", and the CPU performance almost doubled compared to the iPad Air 2, is ready to once again broaden your horizons. It is not only bigger . it is an iPad that allows you to work and create in a whole new dimension as you have never done before.
+
+With 5.6 million pixels, iPad Pro Retina display higher resolution ever seen on an iOS device. Mount 4K video, create presentations, manage a business: the 12.9 "display everything is easier, faster and exciting. And the redesigned Multi-Touch will discover new ways to interact with your iPad.
+
+Despite its large display, the iPad Pro is surprisingly thin and light: only 6.9 mm thick and just 713 grams. With the unibody, it is also durable and well-balanced. But perhaps the most amazing aspect of the iPad Pro is another: it is so comfortable that you almost forget to have it in hand
+
+cpu:
+
+co-processor M9
+
+os:
+
+iOS 9
+
+resolution:
+
+2732x2048
+
+size:
+12.9 inches
+
+type:
+
+LED-backlit IPS LCD, capacitive touchscreen, 16M colors
+
+sim:
+
+Nano-SIM/ Electronic SIM card
+
+weight:
+
+713 g
+
+dimensions:
+
+305.7 x 220.6 x 6.9 mm
+
+//////////////////////////////////////////////////////////////////////////
+
+name:
+
+Apple iPad Mini 4
+
+price:
+
+530
+
+description:
+
+To view it seems really small, but is ready to surprise you with outstanding performance: The new iPad mini 4, thinner and lighter than ever, has all the power you need to do great things.
+
+iPad mini 4 contains everything you love the iPad for an even more lightweight, portable design. Call friends with FaceTime or carried on with the job: you can do it anywhere, anytime.
+
+iPad mini 4 has a second-generation A8 chip with 64-bit architecture of desktop level, to manage even the most elaborate app. You can edit a film, flip through your photos or do both simultaneously: everything is fluid and immediate.
+
+The iSight camera mini iPad 4 has sophisticated optics, an even more advanced sensor and an ISP image processor designed by Apple. It includes features like Panorama, Time-Lapse, Slow and continuous shooting mode and timer. Even the FaceTime HD front camera has been redesigned with an improved sensor and larger pixels, to resume even better in low light. Result? Photos and videos, not to mention the video calls and selfies will be incredibly bright.
+
+Thanks to the Touch ID technology, mini iPad 4 is protected by a password and unassailable memory test: your fingerprint. It just needs a touch to unlock it, but your data are not at danger, even if you lend it to a friend or colleague. And with Touch ID to make purchases on the iTunes, iBooks, and App Store is still easier and safer.
+
+With mini iPad will connect to Wi-Fi networks and high-speed mobile phones, to download content, browse the web and share documents from virtually anywhere. If there is no Wi-Fi, the Wi-Fi + Cellular model * you can connect to high-speed cellular data networks around the world. And with the Apple SIM you can choose a short-term data plan in over 90 countries and territories, and is easy and fast.
+
+IPad mini with iOS 4 have 9, the most intuitive mobile operating system, developed and secure in the world. iOS 9 has been tailored for iPad. App even better and new features such as Slide Over, Picture in Picture and Split View help you do more, more easily. You have to check and reply to an email message? Or prepare a presentation with a glance at the game? IOS 9, you and your iPad you can make a world of things more.
+
+
+cpu:
+
+Dual-core 1.5 GHz Typhoon
+
+os:
+
+iOS 9
+
+resolution:
+
+1536 x 2048
+
+size:
+7.9 inches
+
+type:
+
+LED-backlit IPS LCD, capacitive touchscreen, 16M colors
+
+sim:
+
+Nano-SIM/ Electronic SIM card
+
+weight:
+
+299 g
+
+dimensions:
+
+203.2 x 134.8 x 6.1 mm
+
+//////////////////////////////////////////////////////////////////////////
+
+name:
+
+Huawei MediaPad T1 10
+
+price:
+
+250
+
+description:
+
+The Huawei T1 10 packs a 9.6" IPS HD screen and runs on the Snapdragon 410 chip with a quad-core 1.2GHz Cortex-A53 CPU, Adreno 306 GPU and 1GB of RAM. The rest of the specs include a 5MP rear cam with LED flash, a 2MP front snapper, LTE connectivity and Android KitKat with Emotion launcher.
+
+The slate employs an aluminum unibody design and is just 8.3mm thick. It is powered by a beefy 4,800 mAh battery, which should last for 24 days on standby, 12 hours on video playback, or 6.5 hours of web browsing.
+
+
+cpu:
+
+Quad-core 1.2 GHz Cortex-A53
+
+os:
+
+Android OS, v4.4.4
+
+resolution:
+
+800 x 1280
+
+size:
+9.6 inches
+
+type:
+
+IPS LCD capacitive touchscreen, 16M colors
+
+sim:
+
+Micro-SIM
+
+weight:
+
+433 g
+
+dimensions:
+
+248.5 x 150 x 8.3 mm

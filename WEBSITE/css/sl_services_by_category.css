@@ -1,0 +1,66 @@
+.jumbotron {
+    height         : 400px;
+    text-align     : center;
+    background-size: cover !important;
+    background     : #ddd url('') center center;
+}
+.jumbotron .container {
+    width        : auto;
+    padding      : 3%;
+    color        : #f8f8f8;
+    text-align   : center;
+    margin-right : 10%;
+    border-radius: 5px;
+    display      : inline-block;
+}
+ul.breadcrumb{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.main-container{
+	margin: 0px;
+	padding: 0px;
+}
+
+.picture .img-responsive{
+	height: 200px;
+}
+
+.caption h4, p{
+	text-align: center;
+
+}
+
+/*Jumbotron Font responsive*/
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 200px) {
+    .jumbotron h2 {
+        font-size: 1.8em;
+    }
+    .jumbotron h4 {
+        font-size: 1.1em;
+    }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 600px) {
+    .jumbotron h2 {
+        font-size: 2.4em;
+    }
+    .jumbotron h4 {
+        font-size: 1.4em;
+    }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 992px) {
+    .jumbotron h2 {
+        font-size: 3em;
+    }
+    .jumbotron h4 {
+        font-size: 1.5em;
+    }
+}

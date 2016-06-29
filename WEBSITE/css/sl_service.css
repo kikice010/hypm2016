@@ -1,0 +1,28 @@
+#url_nav{
+	padding: 60px 0px 0px 0px;
+}
+
+#desc >p {
+	text-align: justify;
+}
+
+.sl_service_description_text > p{
+	text-align: justify;
+}
+.act_rules_description_text{
+	text-align: justify;
+}
+
+
+
+.picture .img-responsive{
+	height: 200px;
+}
+
+.caption h4, p{
+	text-align: center;
+
+}
+.sl_service_description_text >*> p{
+	text-align: justify;
+}

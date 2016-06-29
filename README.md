@@ -1,6 +1,6 @@
 #Hyper Media Project 2016
 ###Live demo:
-- [site](http://hyp-telecom.ml/pages/home.php)
+- [site](http://hyp-telecom.ml/pages/home.html)
 
 ###Technologies:
 + [JQuery](https://jquery.com/)

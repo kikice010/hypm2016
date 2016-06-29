@@ -1,0 +1,94 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
+        <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0" /> -->
+        <title>TIM SL Services</title>
+        <!-- Bootstrap -->
+        <link href="../lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="../css/main.css" rel="stylesheet">
+        <!-- <link href="css/index.css" rel="stylesheet"> -->
+        
+        <script src="../lib/js/jquery-2.2.4.min.js"></script>
+        <script src="../lib/js/jquery.session.js"></script>
+    </head>
+
+    <body>
+       
+
+        <div class="container-fluid main-container">
+        
+            
+            <div class="row"> 
+                    <div class="col-lg-12 landmarks">
+                        <div id="template_landmarks"></div>
+                    </div>
+                    
+            </div>
+            <!-- Begin page wrapper -->
+            <div class="page-wrap">
+
+                <div class="container-fluid ">
+
+                    <div class="sl_service_category_container">
+
+                        <div class="container">
+                            <!-- BreadCrump -->
+                        <div class="row" id="url_nav">
+                            <ul class="breadcrumb">
+                                <li><a href="./home.html">Home</a></li>
+                                <li><a href="./sl_services_list.html">SL_Services</a></li>
+                                <li class="active" id="sl_cat"></li>
+                            </ul>
+                        </div>
+                        </div>
+                        
+
+                    
+                        <!-- Jumbotron -->
+                    
+                        <div class='jumbotron row'>
+                            <div class="container" id="slCat">
+                                <h2></h2>
+                                <h4></h4>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="container" id="sl_services_container">
+                  
+                            <!-- Linked SL Services -->
+
+                            <div class="linked_services_container col col-md-12 panel panel-default">
+                                    <div  class="row col col-md-12 panel-header"><h3>SL Services</h3></div>
+                                    <div class="linked_sl_services row panel-body">
+
+                                        <!-- SL Services filed with AJAX -->                                     
+                                       
+                                    </div>
+                            </div>
+
+                    </div>
+            </div>
+
+        </div>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="container">
+                <p class="text-muted">Telecom 2016</p>
+            </div>
+        </footer>
+
+        <script src="../lib/bootstrap/js/bootstrap.min.js"></script> <!-- !!! -->
+        <script src="../js/loadPageContent.js"></script>
+        <script src="../js/sl_services_by_category.js"></script>
+        <script src="../js/cart_icon.js"></script>
+        <script src="../js/loadLinkedSLServices.js"></script>
+        <script src="../js/landmarks_active_elemetns.js"></script>
+
+    </body>
+</html>

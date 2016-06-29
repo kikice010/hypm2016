@@ -1,0 +1,35 @@
+.hilight-red {
+	height: 300px;
+	background-color: red;
+}
+
+/*EOF HELPERS*/
+
+.landmarks {
+	height: 50px;
+	margin-bottom: 10px;
+}
+
+.pad-top {
+	padding-top: 20px;
+}
+
+.device-block {
+    
+    border-color: #ddd;
+    border-style: solid;
+    border-width: 1px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+
+}
+
+.device-image {
+    height: 100%;
+    width: 100%;
+}
+
+.path {
+    margin-top: 20px;
+}
